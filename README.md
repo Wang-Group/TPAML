@@ -4,6 +4,7 @@ This project is supervised by Prof.Pavlo O Dral, Da Zhou and Cheng Wang in Xiame
 environment.yml shows the anaconda packages used in this project, helped you to run this code in your own machine.
 
 If this work is help to your scientific work, please cite our work.
+
 How to cite
 Su, Y., Dai, Y., Zeng, Y., Wei, C., Chen, Y., Ge, F., Zheng, P., Zhou, D., Dral, P. O., Wang, C., Interpretable Machine Learning of Two-Photon Absorption. Adv. Sci. 2023, 10, 2204902. https://doi.org/10.1002/advs.202204902
 
