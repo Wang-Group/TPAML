@@ -8,6 +8,6 @@ If this work is help to your scientific work, please cite our work.
 How to cite  
 Su, Y., Dai, Y., Zeng, Y., Wei, C., Chen, Y., Ge, F., Zheng, P., Zhou, D., Dral, P. O., Wang, C., Interpretable Machine Learning of Two-Photon Absorption. Adv. Sci. 2023, 10, 2204902. https://doi.org/10.1002/advs.202204902
 
-We think Comprehensive_Molecular_Featurizer_V2.0 is possibly helpful, because it can generate feature matrix based on Molecular fragment fingerprint(MFF), RDkit, and MFF-MOE.
+We think Comprehensive_Molecular_Featurizer_V2.0 is possibly helpful, because it can generate feature matrix based on Molecular fragment fingerprint(MFF), RDkit, and MFF-MOE. Especially, a python function, find_conju, could help to find the conjugated parts in one molecule. The Input shuold be mol from smiles.
 
 The data of two-photon absorption  of this study are openly available in figshare at https://doi.org/10.6084/m9.figshare.c.6264228.v2, reference number 6264228.  Predictions of ML-TPA cross section can be done with open source, free package MLatom at http://mlatom.com. In addition, calculations can be performed online using the MLatom@XACS (Xiamen Atomistic Computing Suite) cloud computing service at http://XACScloud.com
